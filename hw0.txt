@@ -1,3 +1,13 @@
 # Description of your program (part 7)
+1.	Open hw0.txt provided.
+2.	On hw0.txt, press “Ctrl + a” (Windwos) or “Cmd + a” (iOS) to select all the texts.
+3.	Press “Ctrl + c” (Windows) or “Cmd + a” (iOS) to copy.
+4.	Open Microsoft Word or Pages (iOS)
+5.	Once the program is opened, paste the texts into it by pressing “Ctrl + v” (Windwos) or “Cmd + v” (iOS).
+6.	In Microsoft Word, you can see the words counted in the bottom left side. In Pages, click “View” in the toolbar then choose “Show Word Count”.
 
 # Reflection on writing your program (part 8)
+I did not feel difficult, though this assignment required me to think a lot. I could just write instruction as “open up your eyes and count the words while keeping how many words you read in your head” but I felt inhumane to have people do that. What if someone must count whole words in a pdf that contains thousands of pages? Thus, I used 3rd party software to make the job easier. The way this makes the job easier satisfied me. However, at the end I felt unsatisfied because the users must have the software to follow my instruction.
+
+I hope to gain good knowledge of programing in general, Python, and APIs. Also, I hope to develop good relationships with classmates and instructors.
+
